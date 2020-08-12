@@ -17,11 +17,9 @@ class Scraper
   end
   binding.pry
       
-  end
+  
  
-end
- 
-Scraper.new.get_page
+#Scraper.new.get_page
   
   
   
